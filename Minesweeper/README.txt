@@ -1,7 +1,8 @@
 My second out of five swing "games", unfinished for now. Definitely coming back after I learn to place images properly.
 
-Major bugs-
-If you win you die.
+Minor issue-
+It tells you how many mines are around even if you picked one with a mine on it.
+Easy to fix just check for the mine first.
 
 Things to add-
 A winning state
